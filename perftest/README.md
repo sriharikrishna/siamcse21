@@ -1,6 +1,7 @@
 # AD microbenchmark
 
-This program applies AD in forward and reverse mode to the function `fun`.
+This program applies Tapenade in forward and reverse mode to the function
+`fun`.
 
 The function takes a vector of length `n` as an input and produces a vector of
 length `n` as an output. Currently, the function is just a dummy that does some
@@ -36,3 +37,9 @@ command line or the web interface, then copy and paste them into `fun.c`.
 Tapenade has a run time support library that is needed for non-trivial reverse-
 mode programs. These files are contained in the ADFirstAidKit, which can be
 downloaded from the Tapenade website.
+
+# Mismatch between forward and reverse mode Jacobians reported?
+
+Try printing the offending values. The two modes can differ due to roundoff,
+and the current driver tests for exact equality. Depending on the function,
+it may be necessary to allow some tolerance instead.
