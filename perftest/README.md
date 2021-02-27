@@ -1,7 +1,8 @@
 # AD microbenchmark
 
 This program applies Tapenade in forward and reverse mode to the function
-`fun`.
+`fun`. More information on Tapenade is available
+[here.](https://team.inria.fr/ecuador/en/tapenade/)
 
 The function takes a vector of length `n` as an input and produces a vector of
 length `n` as an output. Currently, the function is just a dummy that does some
