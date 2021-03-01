@@ -3,16 +3,20 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 
 
 ## Session 1: Wednesday, March 3, 2:15 p.m. - 4:00 p.m. CST
-1. Introduction
-2. Seed matrices
-3. Demo & Hands on: AD basics using rosenbrock function
+| Content      | Resources |
+| ----------- | ----------- |
+| Introduction      | Slides       |
+| Seed matrices   | Slides        |
+| Demo & Hands on: AD basics | [Notebook](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/rosenbrock.ipynb)        |
 
 ## Session 2: Thursday, March 4, 9:45 a.m. - 11:30 a.m. CST
-1. Memory requirements
-2. Automatic differentiation for parallel  programs
-3. Know what you are differentiating
-4. Adding AD to existing code
-5. Demo & Hands on: Derivative based optimization using stream_vel
+| Content      | Resources |
+| ----------- | ----------- |
+| Memory requirements      | Slides       |
+| Automatic differentiation for parallel  programs  | Slides        |
+|  Know what you are differentiating      | Slides       |
+| Adding AD to existing code   | Slides        |
+| Demo & Hands on: Derivative based optimization | [Notebook](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/stream_vel_nonlinearopt_w_jax.ipynb)        |
 
 ## How to run the notebooks
 ### Option 1 (preferred): Using Google Colab. (You will need to login to your Google account)
@@ -34,4 +38,4 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
         pip install jax
         pip install jaxlib
 3. Run the python code
-        python rosenbrock.ipynb
+        python rosenbrock.py
