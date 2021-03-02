@@ -9,6 +9,7 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 | Seed matrices   | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Seeding.pdf)         |
 | Demo & Hands on: Rosenbrock | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/rosenbrock.ipynb)|
 | Demo & Hands on: Scalar | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/scalar.ipynb)|
+| Demo & Hands on: Performance testing | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/perftest.ipynb)|
 ## Session 2: Thursday, March 4, 9:45 a.m. - 11:30 a.m. CST
 | Content      | Resources |
 | ----------- | ----------- |
@@ -16,6 +17,7 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 | Automatic differentiation for parallel  programs  | Slides        |
 |  Know what you are differentiating      | Slides       |
 | Adding AD to existing code   | Slides        |
+| Bonus: Hessians and higher-order derivatives   | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Higher.pdf)        |
 | Demo & Hands on: Derivative based optimization | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/stream_vel_nonlinearopt_w_jax.ipynb)|
 | Demo & Hands on: Dot product test | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/rosenbrock_dot.ipynb)|
 
