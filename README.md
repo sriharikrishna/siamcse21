@@ -8,7 +8,7 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 | Introduction      | Slides       |
 | Seed matrices   | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Seeding.pdf)         |
 | Demo & Hands on: Rosenbrock | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/rosenbrock.ipynb)|
-
+| Demo & Hands on: Scalar | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/scalar.ipynb)|
 ## Session 2: Thursday, March 4, 9:45 a.m. - 11:30 a.m. CST
 | Content      | Resources |
 | ----------- | ----------- |
@@ -26,16 +26,16 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 ### Option 2: Use Jupyter Notebook locally 
 1. Clone this repository or download it
 2. Install any prerequisites
-        pip install jupyterlab
-        pip install jax
-        pip install jaxlib
+                pip install jupyterlab
+                pip install jax
+                pip install jaxlib
 3. Open the notebook
-        jupyter notebook rosenbrock.ipynb
+                jupyter notebook rosenbrock.ipynb
 
 ### Option 3: Use python version locally
 1. Clone this repository or download it
 2. Install any prerequisites
-        pip install jax
-        pip install jaxlib
+                pip install jax
+                pip install jaxlib
 3. Run the python code
-        python rosenbrock.py
+                python rosenbrock.py
