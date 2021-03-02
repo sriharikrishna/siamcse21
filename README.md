@@ -6,13 +6,13 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 | Content      | Resources |
 | ----------- | ----------- |
 | Introduction      | Slides       |
-| Seed matrices   | Slides        |
-| Demo & Hands on: AD basics | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/rosenbrock.ipynb)|
+| Seed matrices   | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Seeding.pdf)         |
+| Demo & Hands on: Rosenbrock | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/rosenbrock.ipynb)|
 
 ## Session 2: Thursday, March 4, 9:45 a.m. - 11:30 a.m. CST
 | Content      | Resources |
 | ----------- | ----------- |
-| Memory requirements      | Slides       |
+| Memory requirements      | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Memory.pdf)       |
 | Automatic differentiation for parallel  programs  | Slides        |
 |  Know what you are differentiating      | Slides       |
 | Adding AD to existing code   | Slides        |
