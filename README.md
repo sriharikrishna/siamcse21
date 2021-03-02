@@ -16,7 +16,7 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 | Memory requirements      | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Memory.pdf)       |
 | Automatic differentiation for parallel  programs  | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Parallel.pdf)        |
 |  Know what you are differentiating      | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Knowwhat.pdf)       |
-| Adding AD to existing code   | Slides        |
+| Adding AD to existing code   | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Large.pdf)         |
 | Bonus: Hessians and higher-order derivatives   | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Higher.pdf)        |
 | Demo & Hands on: Derivative based optimization | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/stream_vel_nonlinearopt_w_jax.ipynb)|
 | Demo & Hands on: Dot product test | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/rosenbrock_dot.ipynb)|
