@@ -27,18 +27,22 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 1. Clone this repository or download it
 2. Install any prerequisites
 ```
-                pip install jupyterlab
-                pip install jax
-                pip install jaxlib
+pip install jupyterlab
+pip install jax
+pip install jaxlib
 ```
 3. Open the notebook
 ```
-                jupyter notebook rosenbrock.ipynb
+jupyter notebook rosenbrock.ipynb
 ```
 ### Option 3: Use python version locally
 1. Clone this repository or download it
 2. Install any prerequisites
-                pip install jax
-                pip install jaxlib
+```
+pip install jax
+pip install jaxlib
+```
 3. Run the python code
-                python rosenbrock.py
+```
+python rosenbrock.py
+```
