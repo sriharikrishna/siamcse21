@@ -14,7 +14,7 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 | Content      | Resources |
 | ----------- | ----------- |
 | Memory requirements      | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Memory.pdf)       |
-| Automatic differentiation for parallel  programs  | Slides        |
+| Automatic differentiation for parallel  programs  | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Parallel.pdf)        |
 |  Know what you are differentiating      | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Knowwhat.pdf)       |
 | Adding AD to existing code   | Slides        |
 | Bonus: Hessians and higher-order derivatives   | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Higher.pdf)        |
