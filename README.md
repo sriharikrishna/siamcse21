@@ -12,7 +12,7 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 ## Session 2: Thursday, March 4, 9:45 a.m. - 11:30 a.m. CST
 | Content      | Resources |
 | ----------- | ----------- |
-| Memory requirements      | Slides       |
+| Memory requirements      | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Memory.pdf)       |
 | Automatic differentiation for parallel  programs  | Slides        |
 |  Know what you are differentiating      | Slides       |
 | Adding AD to existing code   | Slides        |
