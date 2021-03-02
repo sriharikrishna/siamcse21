@@ -17,6 +17,7 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 |  Know what you are differentiating      | Slides       |
 | Adding AD to existing code   | Slides        |
 | Demo & Hands on: Derivative based optimization | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/stream_vel_nonlinearopt_w_jax.ipynb)|
+| Demo & Hands on: Dot product test | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/rosenbrock_dot.ipynb)|
 
 ## How to run the notebooks
 ### Option 1 (preferred): Using Google Colab. (You will need to login to your Google account)
