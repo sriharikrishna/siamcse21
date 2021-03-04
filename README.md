@@ -20,7 +20,7 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
 | Demo & Hands on: Dot product test | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse21/blob/main/rosenbrock_dot.ipynb)|
 | Automatic differentiation for parallel  programs  | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Parallel.pdf)        |
 | Hessians and higher-order derivatives   | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Higher.pdf)        |
-| Appendix   | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Appendix.pdf)        |
+| Further Reading   | [Slides](https://github.com/sriharikrishna/siamcse21/blob/main/slides/SIAMCSE21_Appendix.pdf)        |
 
 
 
