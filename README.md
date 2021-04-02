@@ -1,6 +1,6 @@
 # Automatic Differentiation as a Tool for Computational Science
 https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials
-
+**Organizers**: Laurent Hascoët, Paul Hovland, Jan Hückelheim, Sri Hari Krishna Narayanan
 
 ## Session 1: Wednesday, March 3, 4:15 p.m. - 5:55 p.m. CST
 | Content      | Resources |
